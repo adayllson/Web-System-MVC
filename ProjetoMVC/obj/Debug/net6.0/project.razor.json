@@ -16298,6 +16298,11 @@
   "RootNamespace": "ProjetoMVC",
   "Documents": [
     {
+      "FilePath": "d:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\Views\\Contato\\Index.cshtml",
+      "TargetPath": "Views\\Contato\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
