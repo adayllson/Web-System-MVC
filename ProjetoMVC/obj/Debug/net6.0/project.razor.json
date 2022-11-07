@@ -16308,6 +16308,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\Views\\Contato\\Editar.cshtml",
+      "TargetPath": "Views\\Contato\\Editar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
