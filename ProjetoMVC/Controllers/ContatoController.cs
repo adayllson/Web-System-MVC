@@ -47,7 +47,7 @@ namespace ProjetoMVC.Controllers
             var contato = _context.Contatos.Find(id);
 
             if (contato == null)
-                return NotFound();
+                return RedirectToAction(nameof(Index));
 
             return View(contato);
         }
