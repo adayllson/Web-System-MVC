@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj": {}
+    "C:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj": {}
   },
   "projects": {
-    "D:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj": {
+    "C:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj",
+        "projectUniqueName": "C:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj",
         "projectName": "ProjetoMVC",
-        "projectPath": "D:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj",
+        "projectPath": "C:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj",
         "packagesPath": "C:\\Users\\Adailson\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\obj\\",
+        "outputPath": "C:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Adailson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Adailson\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,11 +42,11 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -62,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -74,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
