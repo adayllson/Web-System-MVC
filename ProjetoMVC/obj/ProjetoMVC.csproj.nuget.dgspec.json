@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj": {}
+    "D:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj": {}
   },
   "projects": {
-    "d:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj": {
+    "D:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj",
+        "projectUniqueName": "D:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj",
         "projectName": "ProjetoMVC",
-        "projectPath": "d:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj",
+        "projectPath": "D:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\ProjetoMVC.csproj",
         "packagesPath": "C:\\Users\\Adailson\\.nuget\\packages\\",
-        "outputPath": "d:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\obj\\",
+        "outputPath": "D:\\Repositórios\\Web-System-MVC\\ProjetoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
